@@ -10,5 +10,3 @@ Built with
 - APIs
 - JSON server
 - EJS
-
-![](images/image1.png)
